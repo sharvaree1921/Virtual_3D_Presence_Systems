@@ -86,9 +86,11 @@ Highly sensitive method. Requires high accuracy and high-tech equipments.
 
 **Method_F: [Mounting CD case at some angle](https://www.youtube.com/watch?v=ZcJ-QMOE2ps)**
 
+The Comparitive Analysis is done [here](https://docs.google.com/spreadsheets/d/1xpouJqDzFqzmptKZkkCc2dVAlAZLlkSFW1PBfYI-D5g/edit#gid=0)
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
 - https://www.explainthatstuff.com/holograms.html
 - https://virtualongroup.com/3d-holographic-projection-holographic-stage/
 - Other Links directly attached
+
