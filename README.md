@@ -28,9 +28,14 @@ Materials:
 5. Ruler, Pencil, A4 Paper, Smartphone
 
 Precautions: Extra Careful while cutting the case.
+
 ![method_1](https://github.com/sharvaree1921/Photos_for_repo/blob/master/images.jpeg)
 
-**Method_2: []()**
+**Method_2: [Pyramidal 3D hologram with epoxy resin(for greater clearity)](https://www.youtube.com/watch?v=qNceVquu02o)**
+
+Extra Materials: Epoxy resin, hardener, weighing scale, beaker.
+
+
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
