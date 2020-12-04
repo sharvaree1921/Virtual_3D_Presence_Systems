@@ -13,6 +13,27 @@ When a laser beam is split up to make a hologram, the light waves in the two par
 
 Now this is the clever part. Every point in a hologram catches light waves that travel from every point in the object. That means wherever you look at a hologram you see exactly how light would have arrived at that point if you'd been looking at the real object. So, as you move your head around, the holographic image appears to change just as the image of a real object changes. And that's why holograms appear to be three-dimensional. Also, and this is really neat, if you break a hologram into tiny pieces, you can still see the entire object in any of the pieces: smash a glass hologram of a cup into bits and you can still see the entire cup in any of the bits! 
 
+![principle](https://github.com/sharvaree1921/Photos_for_repo/blob/master/making-a-hologram.png)
+
 ### 3. How to implement 3D holograms?
 
-- **Method_1: Trapezoid 3D hologram Projector**
+**Method_1: [Trapezoid 3D hologram Projector](https://www.youtube.com/watch?v=9t0cOYvOy4M)**
+
+Materials:
+1. Plastic CD case
+2. Razor Blade
+3. Electric Tape
+4. Strongest Glue
+5. Charcoal paper(for polishing edges)
+5. Ruler, Pencil, A4 Paper, Smartphone
+
+Precautions: Extra Careful while cutting the case.
+![method_1](https://github.com/sharvaree1921/Photos_for_repo/blob/master/images.jpeg)
+
+**Method_2: []()**
+
+### References
+- https://en.wikipedia.org/wiki/Holography
+- https://www.explainthatstuff.com/holograms.html
+- https://virtualongroup.com/3d-holographic-projection-holographic-stage/
+- 
