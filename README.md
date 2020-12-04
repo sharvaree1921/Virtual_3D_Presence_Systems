@@ -17,8 +17,15 @@ Now this is the clever part. Every point in a hologram catches light waves that 
 
 ### 3. How to implement 3D holograms?
 
-**Method_A: **
-**A1: [ 3D hologram Projector](https://www.youtube.com/watch?v=9t0cOYvOy4M)**
+**Method_A:**
+
+**A1: [ Pyramidal 3D hologram Projector](https://www.youtube.com/watch?v=9t0cOYvOy4M)**
+
+[Using glass](https://www.youtube.com/watch?v=Ttv1Lo1Ld2o)
+
+[Using CD](https://www.youtube.com/watch?v=yMLHfqSEEjk)
+
+Using CD case:
 
 Materials:
 1. Plastic CD case
@@ -76,6 +83,8 @@ RGB LED lights mounted on fan's panel and integrated with app for input of video
 **Method_E: [Laser and Mirror Split film](https://www.youtube.com/watch?v=aTB2ryoWIFU)**
 
 Highly sensitive method. Requires high accuracy and high-tech equipments.
+
+**Method_F: [Mounting CD case at some angle](https://www.youtube.com/watch?v=ZcJ-QMOE2ps)**
 
 
 ### References
