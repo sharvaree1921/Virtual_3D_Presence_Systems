@@ -88,6 +88,8 @@ Highly sensitive method. Requires high accuracy and high-tech equipments.
 
 The Comparitive Analysis is done [here](https://docs.google.com/spreadsheets/d/1xpouJqDzFqzmptKZkkCc2dVAlAZLlkSFW1PBfYI-D5g/edit#gid=0)
 
+![Comparitive Analysis](https://github.com/sharvaree1921/Photos_for_repo/blob/master/Screenshot%20from%202020-12-06%2001-47-40.png)
+
 ### References
 - https://en.wikipedia.org/wiki/Holography
 - https://www.explainthatstuff.com/holograms.html
