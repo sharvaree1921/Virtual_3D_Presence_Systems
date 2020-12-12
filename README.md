@@ -90,6 +90,43 @@ The Comparitive Analysis is done [here](https://docs.google.com/spreadsheets/d/1
 
 ![Comparitive Analysis](https://github.com/sharvaree1921/Photos_for_repo/blob/master/Screenshot%20from%202020-12-06%2001-47-40.png)
 
+## Prototyping Various Methods:
+
+### Method A1] Pyramidal CD case/glass model:
+
+Click here for [photos](https://docs.google.com/document/d/1MA1DFaRJWMje8MAwpLCMn1QLM8kbAhp8hHpC4f_xl5U/edit)
+
+Video or short demo can be found [here](https://photos.google.com/direct/AF1QipN7hyMwt5H9zQnU16_XEbcTjZz88tUTHqZScBdRoxIZKa_lpV1tGXt1msKxOQqnJw/photo/AF1QipOIYdlCYoYWgIeAYKVuJ7e8jaavoP0S6e09bsT2)]
+
+#### Observations:
+1] Clarity is much better in glass than CD case or acrylic sheet
+2] The base of the pyramid should be accurately flat and edges should be alligned properly to see proper interference pattern
+3] Irrespective of sizes of pyramids, the size of Hologram is constant(Nearly 1/2 inch)
+4] Size of 3D hologram is directly proportional to the original image/video (if some bigger screen is taken, then 3D hologram size also increases)
+5] Best optimum size results found in middle sized glass hologram(comparing with the other models)
+
+Some Remarks about Other methods:
+1] Epoxy resin + Hardener order placed [here](https://www.amazon.in/gp/product/B07MV9G6NC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+  - Resin: Hardener = 2:1 or 3:1
+  - 'Super Clear transperant'/'High Definition Resin' required
+  - proper weiging scale + beaker + stirrer required(still finding possible ways to perform this)
+  
+ 2] Smoke generated 3D hologram with:
+ A] Smoke generation machine(costs Rs.4000+ excluding other materials)
+ B] Fogg/Water Vapour machine(costs 2000+ excluding other materials)
+ C] Incense stick(in search of projector and good setup)
+ 
+ 3] Fast moving Fan technology
+ Not possible at home, high end technology mentioned
+ 
+ 4] Liquid Nitrogen method(not sure:out of scope)
+ 
+ 5] Laser Mirror split(out of scope)
+ 
+ 6] Mounting CD case at some angle(2D hologram)
+
+
+
 ### References
 - https://en.wikipedia.org/wiki/Holography
 - https://www.explainthatstuff.com/holograms.html
