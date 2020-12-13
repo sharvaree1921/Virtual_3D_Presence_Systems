@@ -125,7 +125,19 @@ Some Remarks about Other methods:
  
  6] Mounting CD case at some angle(2D hologram)
 
+Questions to be addressed:
+1] Video played/image project: different or symmetrical?
+2] how to make it clear(static assymmetrical image):
+Effect of HD/diff resolutions,
+Effect of monochrome/RGB/colour,
+Effect of brightness(%), 
+Effect of size,etc.
+(Take gradations: give ratings)
+3] Environment changes(black room or light room): Day time
+4] Refractive indices of glass, acrylic sheets, epoxy resin
 
+Next Stage:
+Creating an image itself for symmetrical or assymmetrical objects
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
