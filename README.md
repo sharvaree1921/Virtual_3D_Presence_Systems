@@ -112,6 +112,7 @@ Some Remarks about Other methods:
   - proper weiging scale + beaker + stirrer required(still finding possible ways to perform this)
   
  2] Smoke generated 3D hologram with:
+
  A] Smoke generation machine(costs Rs.4000+ excluding other materials)
  B] Fogg/Water Vapour machine(costs 2000+ excluding other materials)
  C] Incense stick(in search of projector and good setup)
@@ -125,15 +126,20 @@ Some Remarks about Other methods:
  
  6] Mounting CD case at some angle(2D hologram)
 
-Questions to be addressed:
+### Questions to be addressed:
+
 1] Video played/image project: different or symmetrical?
+
 2] how to make it clear(static assymmetrical image):
-Effect of HD/diff resolutions,
-Effect of monochrome/RGB/colour,
-Effect of brightness(%), 
-Effect of size,etc.
-(Take gradations: give ratings)
+
+- Effect of HD/diff resolutions,
+- Effect of monochrome/RGB/colour,
+- Effect of brightness(%), 
+- Effect of size,etc.
+- (Take gradations: give ratings)
+
 3] Environment changes(black room or light room): Day time
+
 4] Refractive indices of glass, acrylic sheets, epoxy resin
 
 Next Stage:
