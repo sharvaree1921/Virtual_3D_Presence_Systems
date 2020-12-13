@@ -1,6 +1,7 @@
 # Virtual_3D_Presence_Systems
-## Winter Intern
+## Winter Intern 2020
 
+### Week 1: 03/12/2020 to 06/12/2020
 ### 1. What are 3D Holograms?
 A 3D hologram is defined as a 3D projection that exists freely in space and is visible to everyone without the need for 3D glasses. Holography is the next stage of photography and conventional film and its three-dimensionality creates completely new possibilities for use, such as for product presentation.
 
@@ -90,6 +91,7 @@ The Comparitive Analysis is done [here](https://docs.google.com/spreadsheets/d/1
 
 ![Comparitive Analysis](https://github.com/sharvaree1921/Photos_for_repo/blob/master/Screenshot%20from%202020-12-06%2001-47-40.png)
 
+### Week 2: 07/12/2020
 ## Prototyping Various Methods:
 
 ### Method A1] Pyramidal CD case/glass model:
@@ -142,8 +144,12 @@ Some Remarks about Other methods:
 
 4] Refractive indices of glass, acrylic sheets, epoxy resin
 
+5] What happens when we look 3D hologram from above? 
+
 Next Stage:
 Creating an image itself for symmetrical or assymmetrical objects
+
+### Week 3: 13/12/2020 to 20/12/2020
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
