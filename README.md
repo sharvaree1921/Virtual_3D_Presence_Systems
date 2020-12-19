@@ -151,6 +151,50 @@ Creating an image itself for symmetrical or assymmetrical objects
 
 ### Week 3: 13/12/2020 to 20/12/2020
 
+#### Previous Experiments:
+
+All photos regarding incense stick and steam generator machine are [here]()
+_Hitachi LCD Projector was used for projection_
+
+**Observations**
+- The 3D hologram is very blur in both the cases. Hardly it can be seen.
+- Comparitively, steam generated 3D hologram was more clearer than smoke generated 3D hologram
+- Keeping black background benifitted in seeing the hologram more clearly than any other background
+- In both the cases, entire clear hologram was visible. Only half of it was visible and that through only a particular angle
+- We have to see straight in the line of projector in order to see it clearly
+- Be very careful while dealing with incense sticks, they might be dangerous as we are lighting them all at once
+- The entire setup is space and time taking
+- Not at all cost efficient model with very poor quality
+
+**Epoxy Resin Pyramid experiment still in progress**
+
+**_Some Side remarks(experiences that i had while performing this experiment):_**
+- Epoxy resin behaves entirely different when mixed _by volume_ and when mixed _by weight_.
+- For this particular experiment, epoxy resin is to be used **by weight** and 3:1/2:1/1:1 any ratio would do(I used 3:1 ratio)
+- The glass/acrylic sheet material pyramid has to be made accurately so that one can see the proper interference pattern otherwise the epoxy-resin solution may leak(unfortunately this happened with me inspite of using silicon and bond-tite hardware based special superglues)
+- Be very careful while mixing solution. Prevent bubbles and yellowish texture from coming in the solution
+- Epoxy resin takes 24 hours to dry, hence plan accordingly 
+
+**Some Previous Questions that needed to be addressed along with some extra observations and conclusions that I made:**
+
+#### For pyramid experiment:
+
+1] Incresing the size of input object(i.e. images) increased the size of hologram.
+- However, the size of the pyramid used also matters. Increase the size of pyramid in proportionate manner.
+- The distnce of object from four sides is important to consider. More the distance, more far(greater in heights) is the hologram formed inside the pyramid.
+
+2] What happens when we look hologram from above?
+The hologram is not at all seen from above. It is only seen from side views.
+
+3] How can the 3D hologram be seen in daytime/ without using dark room?
+In order to see the clear 3D _reflection_ hologram in daytime, intense spot lights or illumination light is required like **Laser**. Basically we need 'directional' and coherent light source for clearer outputs. As we increase the background light as we move from dark room to illuminated room, more and more noise is added, which makes the rays coming from input images/objects less 'directional' and less ' single source illuminated'.
+(Still researching on this topic for improvement of our model)
+
+4] What's the nature of image/video frames when we project it?
+The opposite images are placed in the 180 degrees flipped fashion in front of each other such that one end is diameterically opposite to the other at an equal distance.
+
+
+
 ### References
 - https://en.wikipedia.org/wiki/Holography
 - https://www.explainthatstuff.com/holograms.html
