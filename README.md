@@ -232,6 +232,23 @@ observation: we see complete upright image now
 
 ![image 8](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2011.29.37%20AM.jpeg)
 
+5] Refracrive Indices:
+- RI of epoxy resin: 1.50 to 1.57
+- RI of acrylic sheet: 1.4889
+- RI of glass: 1.52
+
+Direct observation has to be deduced, no conclusion can be made from numerical figures
+
+6] Effect of monochrome/ RGB/ Black and white images:
+- Irrespective of the color of image/texture of image, 3D hologram is seen as long as we keep it in appropriate manner
+
+7] Effect of size:
+- Increasing the input image size increases the 3D hologram size. In order to increase input image size:
+  - Take larger screen
+  - Magnify the image with some other lens/mirror prior to reflection from glass
+
+8] Effect of Brightness:
+- Incresing brightness of original input object increases the clarity of 3D hologram as the light source is more illuminated than usual.
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
