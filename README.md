@@ -250,6 +250,11 @@ Direct observation has to be deduced, no conclusion can be made from numerical f
 8] Effect of Brightness:
 - Incresing brightness of original input object increases the clarity of 3D hologram as the light source is more illuminated than usual.
 
+20/12/2020
+Questions:
+1] Taking 4 different views of a single object and can the 3D hologram be seen?
+2] Improvement required for the entire model
+
 ### References
 - https://en.wikipedia.org/wiki/Holography
 - https://www.explainthatstuff.com/holograms.html
