@@ -193,8 +193,16 @@ In order to see the clear 3D _reflection_ hologram in daytime, intense spot ligh
 (Still researching on this topic for improvement of our model)
 
 4] What's the nature of image/video frames when we project it?
+
+**Static Image:**
+
 The opposite images are placed in the 180 degrees flipped fashion in front of each other such that one end is diameterically opposite to the other at an equal distance.
 
+The image can be symmetrical or assymetrical. It doesn't matter what our image is but it does matter how our images are placed on four sides.
+
+![image1](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2010.22.36%20AM.jpeg)
+
+Observation: Complete 3D hologram is seen as only a particular object is seen with black background.
 
 
 ### References
