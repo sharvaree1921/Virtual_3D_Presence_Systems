@@ -153,6 +153,8 @@ Creating an image itself for symmetrical or assymmetrical objects
 
 #### Previous Experiments:
 
+[video](https://drive.google.com/file/d/1Kt-lUhhUJb1e8Q03nK3cxunmJ863DoL6/view?usp=sharing)
+
 All photos regarding incense stick and steam generator machine are [here]()
 _Hitachi LCD Projector was used for projection_
 
