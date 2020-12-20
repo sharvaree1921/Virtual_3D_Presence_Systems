@@ -186,10 +186,10 @@ _Hitachi LCD Projector was used for projection_
 - The distnce of object from four sides is important to consider. More the distance, more far(greater in heights) is the hologram formed inside the pyramid.
 
 2] What happens when we look hologram from above?
-The hologram is not at all seen from above. It is only seen from side views.
+- The hologram is not at all seen from above. It is only seen from side views.
 
 3] How can the 3D hologram be seen in daytime/ without using dark room?
-In order to see the clear 3D _reflection_ hologram in daytime, intense spot lights or illumination light is required like **Laser**. Basically we need 'directional' and coherent light source for clearer outputs. As we increase the background light as we move from dark room to illuminated room, more and more noise is added, which makes the rays coming from input images/objects less 'directional' and less ' single source illuminated'.
+- In order to see the clear 3D _reflection_ hologram in daytime, intense spot lights or illumination light is required like **Laser**. Basically we need 'directional' and coherent light source for clearer outputs. As we increase the background light as we move from dark room to illuminated room, more and more noise is added, which makes the rays coming from input images/objects less 'directional' and less ' single source illuminated'.
 (Still researching on this topic for improvement of our model)
 
 4] What's the nature of image/video frames when we project it?
@@ -203,6 +203,25 @@ The image can be symmetrical or assymetrical. It doesn't matter what our image i
 ![image1](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2010.22.36%20AM.jpeg)
 
 Observation: Complete 3D hologram is seen as only a particular object is seen with black background.
+
+![image 2](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2010.23.44%20AM.jpeg)
+
+Observation: 3D Holographic frames from all 4 sides are seen as the images are rectangular in shape. No exact 3D object is seen in the middle.
+
+When a single object with black bckground is kept:
+
+![image 3](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2010.43.32%20AM.jpeg)
+
+Observation: The 3D object is clearly seen with mirror image of the original one
+
+To see exactly, how it works, i took a word as our inout object
+
+![image 4](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2010.52.38%20AM.jpeg)
+
+Obseration: Mirror image of the original word is seen as 3D hologram
+
+
+![image 5]()
 
 
 ### References
