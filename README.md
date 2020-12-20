@@ -218,10 +218,19 @@ To see exactly, how it works, i took a word as our inout object
 
 ![image 4](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2010.52.38%20AM.jpeg)
 
-Obseration: Mirror image of the original word is seen as 3D hologram
+Obseration: Mirror image of the original word is seen as 3D hologram from all the four sides
 
+![image 5](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2011.15.50%20AM%20(1).jpeg)
 
-![image 5]()
+![image 6](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2011.15.51%20AM.jpeg)
+
+Method: Allign the input images as mirror images itself from all four sides
+
+![image 7](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2011.29.49%20AM.jpeg)
+
+observation: we see complete upright image now
+
+![image 8](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-20%20at%2011.29.37%20AM.jpeg)
 
 
 ### References
