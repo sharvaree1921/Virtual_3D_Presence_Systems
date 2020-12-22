@@ -155,8 +155,12 @@ Creating an image itself for symmetrical or assymmetrical objects
 
 [video](https://drive.google.com/file/d/1Kt-lUhhUJb1e8Q03nK3cxunmJ863DoL6/view?usp=sharing)
 
-All photos regarding incense stick and steam generator machine are [here]()
+All photos regarding incense stick and steam generator machine are [here](https://docs.google.com/document/d/1MA1DFaRJWMje8MAwpLCMn1QLM8kbAhp8hHpC4f_xl5U/edit)
+
 _Hitachi LCD Projector was used for projection_
+
+**Schematics:**
+
 
 **Observations**
 - The 3D hologram is very blur in both the cases. Hardly it can be seen.
@@ -251,9 +255,18 @@ Direct observation has to be deduced, no conclusion can be made from numerical f
 - Incresing brightness of original input object increases the clarity of 3D hologram as the light source is more illuminated than usual.
 
 20/12/2020
+
 Questions:
+
 1] Taking 4 different views of a single object and can the 3D hologram be seen?
 2] Improvement required for the entire model
+
+### Week 4: 20/12/2020 to 27/12/2020
+
+#### [Competitive Analysis of different methods after implementation](https://docs.google.com/spreadsheets/d/10tLZQlaNRaU3DT-dX036Bn6QpYQSkeobzv1UwlABO8o/edit?usp=sharing)
+
+![All methods](https://github.com/sharvaree1921/Photos_for_repo/blob/master/Screenshot%20from%202020-12-22%2020-23-40.png)
+
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
