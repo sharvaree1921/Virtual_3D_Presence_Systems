@@ -161,6 +161,7 @@ _Hitachi LCD Projector was used for projection_
 
 **Schematics:**
 
+![images](https://github.com/sharvaree1921/Photos_for_repo/blob/master/1608649456688.jpg)
 
 **Observations**
 - The 3D hologram is very blur in both the cases. Hardly it can be seen.
