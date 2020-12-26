@@ -287,8 +287,28 @@ Questions:
 | 90 degrees | none | - |
 
 
-How do you make 3D object from pyramid
+**How do you make 3D object from pyramid**
 
+![image85](https://github.com/sharvaree1921/Photos_for_repo/blob/master/WhatsApp%20Image%202020-12-27%20at%201.25.16%20AM.jpeg)
+
+**Some Remarks**
+- When 4 different side views are aligned in this manner then we can see the desired hologram
+- The 3D hologram is indeed seen **3D** when looked from all the slides
+- However, one is not able to the see the 3D feature when one moves from one side to another. Some gap/irregularity remains
+- Mirror image thing still needs to be followed especially for 3D texts
+
+_When we see from any one side of the pyramid, then it indeed seems 3D as if we are seeing the 3D movie without goggles.The depth is sensed clearly when we see the video/image_
+
+[Epoxy resin 3D hologram implemented](https://drive.google.com/file/d/1CSy1XNXusdnrG2n2zpQVnmlSMCsn5BJX/view?usp=sharing)
+
+[3D holograms from Diffferent angles](https://drive.google.com/file/d/1S78JQQnDXOk0vQnrLCvDR47sHnSp4Kqs/view?usp=sharing)
+
+One thing to notice is that, black background gives the best results. If we use any other background say white, we will see that rectangular frame within it. Hence for viewing the particular object, we have to:
+- Extract the object from background
+- Take mirror image of all four sides of the object
+- Align it in all the 4 directions as prescribed earlier
+
+_The hologram quality fades much in a light room. Dark room serves the best result_
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
