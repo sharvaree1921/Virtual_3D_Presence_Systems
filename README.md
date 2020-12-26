@@ -268,7 +268,7 @@ Questions:
 
 ![All methods](https://github.com/sharvaree1921/Photos_for_repo/blob/master/Screenshot%20from%202020-12-22%2020-23-40.png)
 
-####[All the photos for epoxy resin experiment](https://docs.google.com/document/d/1MA1DFaRJWMje8MAwpLCMn1QLM8kbAhp8hHpC4f_xl5U/edit)
+#### [All the photos for epoxy resin experiment](https://docs.google.com/document/d/1MA1DFaRJWMje8MAwpLCMn1QLM8kbAhp8hHpC4f_xl5U/edit)
 
 **Observations:**
 - Epoxy resin when filled in the glass or acrylic sheet gives almost same result. The difference in quality is not seen from the naked eyes
