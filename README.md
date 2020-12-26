@@ -268,6 +268,27 @@ Questions:
 
 ![All methods](https://github.com/sharvaree1921/Photos_for_repo/blob/master/Screenshot%20from%202020-12-22%2020-23-40.png)
 
+####[All the photos for epoxy resin experiment](https://docs.google.com/document/d/1MA1DFaRJWMje8MAwpLCMn1QLM8kbAhp8hHpC4f_xl5U/edit)
+
+**Observations:**
+- Epoxy resin when filled in the glass or acrylic sheet gives almost same result. The difference in quality is not seen from the naked eyes
+- Keeping cost(money as well as hands-on part required) in mind, acrylic sheet proves to be better than glass
+- Clarity is drastically improved when we useepoxy resin
+- Mirror image of original input image is seen as previous
+
+**Analysis of 3D holograms when seen from different angles:**
+
+| Angle | Image seen | clarity |
+|---|---|---|
+| w.r.t ground | fraction | (1-5): 5-very clear|
+| 0 degrees| complete(1) | 5 |
+| 30 degrees | 2/3rd | 5 |
+| 60 degrees | 1/3rd | 5 |
+| 90 degrees | none | - |
+
+
+How do you make 3D object from pyramid
+
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
