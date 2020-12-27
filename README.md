@@ -286,6 +286,7 @@ Questions:
 | 60 degrees | 1/3rd | 5 |
 | 90 degrees | none | - |
 
+- When we increase the size of the pyramid, no significance difference is obsereved
 
 **How do you make 3D object from pyramid**
 
@@ -309,6 +310,24 @@ One thing to notice is that, black background gives the best results. If we use 
 - Align it in all the 4 directions as prescribed earlier
 
 _The hologram quality fades much in a light room. Dark room serves the best result_
+
+- In order to see the complete hologram, moving somewhat backwards also suffices(1-2 meters depending upon the pyramid size)
+- The distance to be moved backwards is inversely proportional to the size of pyramid
+
+**Effect of daylight and dark room:**
+- In day time, the 3D hologram is hardly(negligible) visible in case of epoxy resin
+- In night time, 3D hologram is seen very clearly
+- Comparison for different cases is done as follows:
+  - ER means Epoxy resin.
+  - Clarity(1: very poor, 5: very clear)
+
+|   | Glass | Acrylic sheet|
+|---| --- | --- |
+| ER present & daytime | 1 | 1 |
+| ER present & darkroom| 5 | 5 |
+| ER absent & daytime | 2 | 1.5 |
+| ER absent & darkroom| 3 | 2 |
+
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
