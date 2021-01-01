@@ -309,6 +309,13 @@ One thing to notice is that, black background gives the best results. If we use 
 - Take mirror image of all four sides of the object
 - Align it in all the 4 directions as prescribed earlier
 
+**Method to extract the object and make the required image**
+- Decide the object you want to click photo of
+- Take snapshots of that object from 4 sides(90 degrees to each other)
+- Extract the object from background using _Adobe Illustrator_ software
+- Use PicsArt or any other mobile app or photoshop to align these images in the form of mirror images onto the black background
+- These applications provide accuracy in placing the extracted the object and placing them in the required background
+
 _The hologram quality fades much in a light room. Dark room serves the best result_
 
 - In order to see the complete hologram, moving somewhat backwards also suffices(1-2 meters depending upon the pyramid size)
@@ -327,6 +334,10 @@ _The hologram quality fades much in a light room. Dark room serves the best resu
 | ER present & darkroom| 5 | 5 |
 | ER absent & daytime | 2 | 1.5 |
 | ER absent & darkroom| 3 | 2 |
+
+### Week 5: 27/12/2020 to 02/01/2021
+
+**Total Expenses**
 
 
 ### References
