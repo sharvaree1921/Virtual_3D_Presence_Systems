@@ -339,8 +339,15 @@ _The hologram quality fades much in a light room. Dark room serves the best resu
 
 ### Week 5: 27/12/2020 to 02/01/2021
 
-**Image not placed at center:**
+**2 Objects not placed at center:**
 
+[2 obj](https://github.com/sharvaree1921/Photos_for_repo/blob/master/2%20obj.jpg)
+
+**Observations:**
+- Extracted two objects are seen 3D but features such as shadow, light effect, sorrounding presenc, etc make them to not look 3D
+- There is no change even if we don't keep them at center as long as they are properly aligned
+
+Have a look at the video [here](https://drive.google.com/file/d/1yFVoulVpn9nw6bLcIgKWPyiVpCewHLL7/view?usp=sharing)
 
 **3D Hologram Video procedure:**
 - Place the desired object/ human in a room
@@ -356,9 +363,32 @@ Observations:
 - 3D depth is seen when seen from one side
 - Rest all observations hold true which are seen for the static image part(for pyramid and epoxy resin filled pyramid)
 
+### Total Expenses
 
-**Total Expenses**
+- Purchasing Glass + cutting(for 4-5 glass pyramids of different sizes): 390/-
+- Acrylic sheet + Acrylic Sheet cutting: 70+40 = 110/-
+- Hardware Glue: 50/-
+- Silicone: 40/-
+- Beaker + Stirrer: 166/-
+- Epoxy Resin + Hardener: 868/-
+- Testing Lab rent: 200/-
+- Incense stick: 40/-
+- Projector 1 day rent: 800/-
+- Cutter + Hardware tape + double tape + polish paper = 80/-
 
+Total: 2744/-
+
+**Softwares used for**:
+1] photo editing: Picsart, Adobe Illustrator
+2] Video Editing: Adobe Premiere Pro, Filmigo, YouCut
+
+### Acknowledgements: 
+- Divya Jain Mam
+- Rajendra Sinkar
+- Rigini Sinkar
+- Saanvi Sinkar
+- Kunal Shahare
+- Leena Chaudhari
 
 ### References
 - https://en.wikipedia.org/wiki/Holography
