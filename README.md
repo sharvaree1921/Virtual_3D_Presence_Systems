@@ -376,9 +376,10 @@ Observations:
 - Projector 1 day rent: 800/-
 - Cutter + Hardware tape + double tape + polish paper = 80/-
 
-Total: 2744/-
+**Total: 2744/-**
 
 **Softwares used for**:
+
 1] photo editing: Picsart, Adobe Illustrator
 2] Video Editing: Adobe Premiere Pro, Filmigo, YouCut
 
