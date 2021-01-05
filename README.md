@@ -335,7 +335,27 @@ _The hologram quality fades much in a light room. Dark room serves the best resu
 | ER absent & daytime | 2 | 1.5 |
 | ER absent & darkroom| 3 | 2 |
 
+**Remark:** If we use cone(infinite sided polygon(instead of pyramid), then exact continous nature can be obtained(ideal situation)). More the no. of faces, more the accuracy and continuity in 3D effects can be observed.
+
 ### Week 5: 27/12/2020 to 02/01/2021
+
+**Image not placed at center:**
+
+
+**3D Hologram Video procedure:**
+- Place the desired object/ human in a room
+- Video is made by successive frames of images by video editor app
+- Since 4 cameras are not available, 4 snapshots from each side were taken. Hence, total 16 images were there
+- After making the 4 videos for each side, Adobe Premier Pro software was used to align them as required
+
+Have a look at the video [here](https://drive.google.com/file/d/1bu3jQQ-wOMm-9PDG_qkTumj637ptqVKk/view?usp=sharing)
+
+Observations:
+- As the video is made out of individual separate frames, desired continuity is not observed. But, if the videos are taken simultaneously from all four sides, the accuracy can be obtained 
+- Discontinuity at 45 degrees is obtained as usual due to the pyramid shape
+- 3D depth is seen when seen from one side
+- Rest all observations hold true which are seen for the static image part(for pyramid and epoxy resin filled pyramid)
+
 
 **Total Expenses**
 
