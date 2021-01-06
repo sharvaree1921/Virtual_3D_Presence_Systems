@@ -341,7 +341,7 @@ _The hologram quality fades much in a light room. Dark room serves the best resu
 
 **2 Objects not placed at center:**
 
-[2 obj](https://github.com/sharvaree1921/Photos_for_repo/blob/master/2%20obj.jpg)
+![2 obj](https://github.com/sharvaree1921/Photos_for_repo/blob/master/2%20obj.jpg)
 
 **Observations:**
 - Extracted two objects are seen 3D but features such as shadow, light effect, sorrounding presenc, etc make them to not look 3D
